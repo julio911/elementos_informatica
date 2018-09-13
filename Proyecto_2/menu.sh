@@ -26,7 +26,7 @@ function salir() {
 function pr_1(){
     #!/usr/bin/python
     chmod +x Calculadora.py
-    ./Calculadora.py
+    python3 ./Calculadora.py
 }
 
 echo "Bienvenido a su menu porfavor seleccione su opcion"
